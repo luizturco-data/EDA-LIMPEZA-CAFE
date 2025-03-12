@@ -10,7 +10,7 @@ A análise foi desenvolvida com base em dados obtidos de uma base pública do Ka
 ---
 
 ## 💾 **Dataset**  
-- **Fonte:** Kaggle  
+- **Fonte:** [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)  
 - **Período:** 2023  
 - **Formato:** CSV  
 - **Tamanho:** 10000 linhas e 8 colunas.
