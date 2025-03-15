@@ -49,7 +49,7 @@ As principais questões respondidas foram:
 ---
 
 ## 🚀 **Como Executar o Projeto**  
----
+
 ### Pré-requisitos:
 - Python 3.8 or higher
 - Bibliotecas: `numpy`, `pandas`, `matplotlib`, `seaborn`, `collections`
