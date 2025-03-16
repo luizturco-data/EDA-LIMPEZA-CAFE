@@ -9,19 +9,20 @@ A análise foi desenvolvida com base em dados obtidos de uma base pública do Ka
 
 ---
 
+## 💻 **Tecnologias**  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)](#)
+
+---
+
 ## 💾 **Dataset**  
 - **Fonte:** [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)  
 - **Período:** 2023  
 - **Formato:** CSV  
-- **Tamanho:** 10000 linhas e 8 colunas.
-  
----
-
-## 🛠️ **Ferramentas Utilizadas**  
-- **Python** – Para manipulação e análise de dados.  
-- **Pandas** – Para limpeza e organização dos dados.
-- **NumPy** – Para manipulação numérica.
-- **Matplotlib e Seaborn** – Para visualização dos dados.
+- **Tamanho:** 10.000 linhas e 8 colunas.
   
 ---
 
